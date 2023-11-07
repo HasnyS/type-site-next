@@ -16,9 +16,9 @@ export const Hero = () => {
                             sequence={[
                                 "Syed",
                             1000,
-                            "A REact Developer",
+                            "A React Developer",
                             1000,
-                            " A JavaScript",
+                            " A JavaScript expert",
                             1000,
                         ]}
                             wrapper="span"
